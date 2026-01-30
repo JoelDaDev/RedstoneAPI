@@ -1,3 +1,8 @@
 {
-    "test": "test1"
+    "versions": {
+        "26.1-snapshot-5": {
+            "data_format": "98.0",
+            "resource_format": "79.0"
+        }
+    }
 }
